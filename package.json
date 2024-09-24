@@ -1,0 +1,15 @@
+{
+  "name": "wholesome-backend",
+  "version": "1.0.0",
+  "description": "A simple Node.js backend server with love",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "winston": "^3.8.2"
+  },
+  "author": "PXL Devs",
+  "license": "ISC"
+}
